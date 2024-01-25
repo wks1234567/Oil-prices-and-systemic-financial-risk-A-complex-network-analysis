@@ -471,4 +471,3 @@ p2<-ggplot(EPU, aes(x=x, y=y)) + geom_line(color="red",size=0.7)+geom_hline(yint
 ########## 4*8
 p1+p2
 
-![image](https://github.com/wks1234567/Oil-prices-and-systemic-financial-risk-A-complex-network-analysis/assets/87639837/7c80a236-6065-49ba-9265-d6aa87a1a18c)
